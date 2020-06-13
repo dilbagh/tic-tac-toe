@@ -13,5 +13,5 @@ This will generate an executable jar file with all dependencies embedded in the 
 To run,
 
 ```bash
-java -jar tic-tac-toe-1.0-SNAPSHOT-jar-with-dependencies.jar
+java -jar tic-tac-toe-2.0-SNAPSHOT-jar-with-dependencies.jar
 ```
